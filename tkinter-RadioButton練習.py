@@ -1,7 +1,7 @@
 import tkinter as tk
 window = tk.Tk()
 window.geometry("700x700")
-window.title("Store")
+window.title("Create your own profile!")
 
 Text1 = tk.StringVar()
 Text2 = tk.StringVar()
